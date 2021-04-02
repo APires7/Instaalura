@@ -16,6 +16,7 @@
    FlatList
  } from "react-native";
  
+ // Pega a largura da tela do celular
 const largura = Dimensions.get("screen").width;
 
 const infos = [
